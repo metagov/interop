@@ -8,10 +8,11 @@
 
 - the [full RFP](https://docs.google.com/document/d/1G-2OVyJIvVTcQLPCg_mA3UzohSGZUm9dHPyWKwK4LlA/edit)
 - the [full specification](https://docs.google.com/document/d/1px14n1qSKdsaqzUeKLfudEZ7LX0nvED09q2guGbRFY0/edit)
+- the [application form](https://docs.google.com/forms/d/e/1FAIpQLSf8gEZaRLgg9nGfYdevdwBVB6yON8eH9ehSXR3UVJ00gibhKg/viewform)
 
 ## Key dates
 - April 3, 2024: Grant application opens
-- April 20, 2024: FAQ session #1
+- April 20, 2024: FAQ session #1 [RSVP here](https://lu.ma/7icmar24)
 - April 29, 2042: FAQ session #2
 - May 1, 2024: Phase 1 applications due
 - June 1, 2024: Phase 1 decisions announced
