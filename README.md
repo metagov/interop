@@ -6,9 +6,8 @@
 
 **Interoperability requirement**: as a key condition of the grant, all grantees must support interoperability by incorporating a process to publish their data in a flatfile format such as JSON, JSON-LD, or CSV. This requirement is described more fully in the [draft specification](https://docs.google.com/document/d/1G-2OVyJIvVTcQLPCg_mA3UzohSGZUm9dHPyWKwK4LlA/edit) and rationale accompanying this RFP.
 
-- the [full RFP](https://docs.google.com/document/d/1G-2OVyJIvVTcQLPCg_mA3UzohSGZUm9dHPyWKwK4LlA/edit)
+- the [full RFP (includes link to application form](https://docs.google.com/document/d/1G-2OVyJIvVTcQLPCg_mA3UzohSGZUm9dHPyWKwK4LlA/edit)
 - the [full specification](https://docs.google.com/document/d/1px14n1qSKdsaqzUeKLfudEZ7LX0nvED09q2guGbRFY0/edit)
-- the [application form](https://docs.google.com/forms/d/e/1FAIpQLSf8gEZaRLgg9nGfYdevdwBVB6yON8eH9ehSXR3UVJ00gibhKg/viewform)
 
 ## Key dates
 - April 3, 2024: Grant application opens
