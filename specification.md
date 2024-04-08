@@ -1,4 +1,3 @@
-Interoperable Deliberative Tools
 ---
 title: Interoperable Deliberative Tools
 description: A flatfile-based architecture for interoperating deliberative tools.
@@ -7,6 +6,7 @@ status: Draft
 author: Joshua Tan, Aviv Ovadya, Amy Zhang, Colin Megill
 created: 2024-04-02
 ---
+
 # Simple summary
 Interoperability through flatfiles (e.g., JSON, CSV).
 
