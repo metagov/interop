@@ -27,4 +27,4 @@
 - October 8, 2024: Phase 2 decisions announced
 - January 8, 2025: Phase 2 projects report back (open source repo + blog post or paper)
 
-A project of [Metagov](metagov.org). With thanks to the [Mina Foundation](https://www.minafoundation.com/).
+A project of [Metagov](https://metagov.org/). With thanks to the [Mina Foundation](https://www.minafoundation.com/).
