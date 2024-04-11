@@ -14,7 +14,7 @@
 
 ## Key dates
 - April 3, 2024: Grant application opens
-- April 20, 2024: FAQ session #1 [RSVP here](https://lu.ma/7icmar24)
+- April 19, 2024: FAQ session #1 [RSVP here](https://lu.ma/7icmar24)
 - April 29, 2042: FAQ session #2 [RSVP here](https://lu.ma/bj85z4gu)
 - May 1, 2024: Phase 1 applications due
 - June 1, 2024: Phase 1 decisions announced
