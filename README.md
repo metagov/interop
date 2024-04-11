@@ -10,7 +10,7 @@
 
 - the [full RFP (includes link to application form)](https://docs.google.com/document/d/1G-2OVyJIvVTcQLPCg_mA3UzohSGZUm9dHPyWKwK4LlA/edit)
 - the [full specification](https://docs.google.com/document/d/1px14n1qSKdsaqzUeKLfudEZ7LX0nvED09q2guGbRFY0/edit)
-- the [application](https://docs.google.com/document/d/1G-2OVyJIvVTcQLPCg_mA3UzohSGZUm9dHPyWKwK4LlA/edit)
+- the [application](https://docs.google.com/forms/d/e/1FAIpQLSf8gEZaRLgg9nGfYdevdwBVB6yON8eH9ehSXR3UVJ00gibhKg/viewform)
 
 ## Key dates
 - April 3, 2024: Grant application opens
