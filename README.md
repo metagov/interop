@@ -22,7 +22,7 @@
   - Optional: call every two weeks for the cohort of projects to have a check-in point
 - September 1, 2024: Phase 1 projects report back (open source repo + blog post or paper). 
 - Projects may not be finished by then, but must do public sharing by then.
-- While the fall every 2 weeks is optional, there are at least required calls (3 month mark and 6 month mark) to share progress to day
+- While the call every 2 weeks is optional, grantees are expected to join at least two calls (3 month mark and 6 month mark) to share progress 
 - September 8, 2024: Phase 2 applications due
 - October 8, 2024: Phase 2 decisions announced
 - January 8, 2025: Phase 2 projects report back (open source repo + blog post or paper)
