@@ -16,11 +16,11 @@
 - April 3, 2024: Grant application opens
 - April 19, 2024: FAQ session #1 [RSVP here](https://lu.ma/7icmar24)
 - April 29, 2042: FAQ session #2 [RSVP here](https://lu.ma/bj85z4gu)
-- May 1, 2024: Phase 1 applications due
-- June 1, 2024: Phase 1 decisions announced
-- June 15th 2024, Phase 1 kickoff date
+- May 15, 2024: Applications due
+- June 15, 2024: Grant decisions announced
+- June 30 2024, Kickoff date
   - Optional: call every two weeks for the cohort of projects to have a check-in point
-- September 1, 2024: Phase 1 projects report back (open source repo + blog post or paper). 
+- September 1, 2024: Projects report back (open source repo + blog post or paper). 
 - Projects may not be finished by then, but must do public sharing by then.
 - While the call every 2 weeks is optional, grantees are expected to join at least two calls (3 month mark and 6 month mark) to share progress 
 - September 8, 2024: Phase 2 applications due
