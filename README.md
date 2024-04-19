@@ -4,7 +4,7 @@
 
 **Scope**: Digital tools that go beyond basic voting and commenting, and provide new capabilities to the governance ecosystem—which may only be one step of a larger deliberative governance process. The processes these tools enable may be used for online community governance, AI governance and alignment, cooperative governance, citizen town halls or assemblies, or other kinds of institutional policy-making or decision-making.
 
-**Awards**: In Phase 1, we expect to give out a total of 50,000 USD in small grants of up to 10,000 USD. In Phase 2, we expect to give out a total of 200,000 USD in larger grants of up to 100,000 USD. These amounts may change.
+**Awards**: We expect to give out a total of 200,000 USD in a mix of smaller and larger grants of size between 5,000 to 100,000 USD. These amounts may change.
 
 **Interoperability requirement**: as a key condition of the grant, all grantees must support interoperability by incorporating a process to publish their data in a flatfile format such as JSON, JSON-LD, or CSV. This requirement is described more fully in the [draft specification](https://docs.google.com/document/d/1G-2OVyJIvVTcQLPCg_mA3UzohSGZUm9dHPyWKwK4LlA/edit) and rationale accompanying this RFP.
 
