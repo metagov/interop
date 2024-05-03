@@ -22,8 +22,8 @@
 - July 31 2024, Kickoff date
   - Optional: call every two weeks for the cohort of projects to have a check-in point
 - October 25, 2024 (tentative): Projects report back (open source repo + blog post or paper). 
-- Projects may not be finished by then, but must do public sharing by then.
-- While the call every 2 weeks is optional, grantees are expected to join at least two calls (3 month mark and 6 month mark) to share progress 
+  - Projects may not be finished by then, but must do public sharing by then.
+  - While the call every 2 weeks is optional, grantees are expected to join at least two calls (3 month mark and 6 month mark) to share progress 
 - January 31, 2025 (tentative): Projects report back. 
 
 A project of [Metagov](https://metagov.org/). With thanks to the [Mina Foundation](https://www.minafoundation.com/).
