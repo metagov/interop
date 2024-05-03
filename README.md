@@ -16,7 +16,7 @@
 - April 3, 2024: Grant application opens
 - April 19, 2024: FAQ session #1 
 - April 29, 2024: FAQ session #2
-- May 15, 2024: FAQ session #3 - [RSVP here]([url](https://lu.ma/l6qjupga))
+- May 15, 2024: FAQ session #3 - [RSVP here](https://lu.ma/l6qjupga)
 - May 31, 2024: Applications due 10p in your timezone
 - July 15, 2024: Grant decisions announced
 - July 31 2024, Kickoff date
