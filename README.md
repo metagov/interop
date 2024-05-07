@@ -1,4 +1,5 @@
 # RFP: Interoperable Deliberative Tools
+![RFP Picture](docs/assets/Websiteimage.jpeg)
 
 **Purpose**: To support new and existing tools for deliberation and governance, and to promote more interoperability between such tools.
 
