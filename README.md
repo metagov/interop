@@ -1,5 +1,5 @@
 # RFP: Interoperable Deliberative Tools
-/assets/Screenshot 2024-05-06 at 5.31.03 PM.jpeg
+
 **Purpose**: To support new and existing tools for deliberation and governance, and to promote more interoperability between such tools.
 
 **Scope**: Digital tools that go beyond basic voting and commenting, and provide new capabilities to the governance ecosystem—which may only be one step of a larger deliberative governance process. The processes these tools enable may be used for online community governance, AI governance and alignment, cooperative governance, citizen town halls or assemblies, or other kinds of institutional policy-making or decision-making.
