@@ -1,5 +1,7 @@
 # RFP: Interoperable Deliberative Tools
-![RFP Picture](docs/assets/Websiteimage.jpeg)
+<p align="center">
+  <img src="docs/assets/Websiteimage.jpeg" />
+</p>
 
 **Purpose**: To support new and existing tools for deliberation and governance, and to promote more interoperability between such tools.
 
@@ -27,6 +29,9 @@ In addition to the RFP, there is a **part-time role for a Senior Engineer** to l
 - October 25, 2024 (tentative): Projects report back (open source repo + blog post or paper). 
   - Projects may not be finished by then, but must do public sharing by then.
   - While the call every 2 weeks is optional, grantees are expected to join at least two calls (3 month mark and 6 month mark) to share progress 
-- January 31, 2025 (tentative): Projects report back. 
+- January 31, 2025 (tentative): Projects report back.
+
+## About Metagov
+Metagov is a laboratory for self-governance on the internet. The mission of Metagov is to cultivate tools, practices, and communities that enable self-governance in the digital age. Our research encompasses both theoretical and applied research, including the development of software and technical standards. On top of our research, we also build research networks and bring together communities through our tools, experiments, and events.
 
 A project of [Metagov](https://metagov.org/). With thanks to the [Mina Foundation](https://www.minafoundation.com/).
