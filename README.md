@@ -15,7 +15,7 @@
 - the [full specification](https://docs.google.com/document/d/1px14n1qSKdsaqzUeKLfudEZ7LX0nvED09q2guGbRFY0/edit)
 - the [application](https://docs.google.com/forms/d/e/1FAIpQLSf8gEZaRLgg9nGfYdevdwBVB6yON8eH9ehSXR3UVJ00gibhKg/viewform)
 
-In addition to the RFP, there is a **part-time role for a Senior Engineer** to lead the technical design, development, and implementation of new or existing open-source tools for deliberation and governance. Learn more [here](https://docs.google.com/document/d/1X6IskG7U0NJ5FCmNbvEwJOe-jWo4MF3nXyGKGyazDw8/edit?usp=sharing)
+In addition to the RFP, there is a **part-time role for a Senior Engineer** to lead the development of digital infrastructure and standards designed to support the interoperability of deliberative and governance tools. The Senior Engineer will work with the cohort of awardees as well as the engineering teams of major deliberative tooling stacks. Learn more [here](https://docs.google.com/document/d/1X6IskG7U0NJ5FCmNbvEwJOe-jWo4MF3nXyGKGyazDw8/edit?usp=sharing).
 
 ## Key dates
 - April 3, 2024: Grant application opens
