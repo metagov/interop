@@ -22,7 +22,7 @@ In addition to the RFP, there is a **part-time role for a Senior Engineer** to l
 - April 19, 2024: FAQ session #1 
 - April 29, 2024: FAQ session #2
 - May 15, 2024: FAQ session #3 - [RSVP here](https://lu.ma/l6qjupga)
-- May 31, 2024: Applications due 10p in your timezone
+- May 31, 2024: Applications due 10pm in your timezone
 - July 15, 2024: Grant decisions announced
 - July 31 2024, Kickoff date
   - Optional: call every two weeks for the cohort of projects to have a check-in point
