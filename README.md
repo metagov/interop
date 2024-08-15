@@ -37,8 +37,6 @@ We are excited to have many innovative projects be a part of this cohort.
 - Evocracy decision-making protocol - Efficient and scalable decision-making protocol based on a hierarchical selection and integration process.
 - [Interoperable Co-operative Governance](https://docs.google.com/document/d/17yJ4QCMROqAFfuLMlYV4yozgCHMelV0PK8PWNk-MnkA/edit?usp=sharing) - Repurposing commonly-used collaborative and development tools into an interoperable dashboard that streamlines democratic decision-making processes for small organizations.
 
-In addition to the RFP, [Daniel Carr](https://au.linkedin.com/in/daniel-carr-322178160) is joining our team to lead the development of digital infrastructure and standards designed to support the interoperability of deliberative and governance tools. Daniel is a senior developer and brings over a decade of experience leading several projects. He will work with the cohort of awardees as well as the engineering teams of major deliberative tooling stacks. 
-
 ## Key dates
 - July 15, 2024: Grant decisions announced
 - July 31 2024, Kickoff date
@@ -47,6 +45,9 @@ In addition to the RFP, [Daniel Carr](https://au.linkedin.com/in/daniel-carr-322
   - Projects may not be finished by then, but must do public sharing by then.
   - While the call every 2 weeks is optional, grantees are expected to join at least two calls (3 month mark and 6 month mark) to share progress 
 - January 31, 2025 (tentative): Projects report back.
+
+## People
+- [Daniel Carr](https://au.linkedin.com/in/daniel-carr-322178160) - Technical Lead. Daniel is a senior developer and brings over a decade of experience leading several projects. He will work with the cohort of awardees as well as the engineering teams of major deliberative tooling stacks. He will lead the development of digital infrastructure and standards designed to support the interoperability of deliberative and governance tools.
 
 ## About Metagov
 Metagov is a laboratory for self-governance on the internet. The mission of Metagov is to cultivate tools, practices, and communities that enable self-governance in the digital age. Our research encompasses both theoretical and applied research, including the development of software and technical standards. On top of our research, we also build research networks and bring together communities through our tools, experiments, and events.
