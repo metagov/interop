@@ -47,7 +47,13 @@ We are excited to have many innovative projects be a part of this cohort.
 - January 31, 2025 (tentative): Projects report back.
 
 ## People
-- [Daniel Carr](https://au.linkedin.com/in/daniel-carr-322178160) - Technical Lead. Daniel is a senior developer and brings over a decade of experience leading several projects. He will work with the cohort of awardees as well as the engineering teams of major deliberative tooling stacks. He will lead the development of digital infrastructure and standards designed to support the interoperability of deliberative and governance tools.
+- [Daniel Carr](https://au.linkedin.com/in/daniel-carr-322178160) - Technical Lead. 
+- [Ellie DeSota]() - Non-technical cohort lead.
+- [Nitin Mariserla]() - Project manager.
+- [Eugene Leventhal](https://metagov.org/people/eugene-leventhal) - Program manager.
+- [Josh Tan](https://metagov.org/people/joshua-tan) - Advisor.
+- [Aviv Ovadya](https://metagov.org/people/aviv-ovadya) - Advisor.
+- [Amy Zhang](https://metagov.org/people/amy-zhang) - Advisor.
 
 ## About Metagov
 Metagov is a laboratory for self-governance on the internet. The mission of Metagov is to cultivate tools, practices, and communities that enable self-governance in the digital age. Our research encompasses both theoretical and applied research, including the development of software and technical standards. On top of our research, we also build research networks and bring together communities through our tools, experiments, and events.
