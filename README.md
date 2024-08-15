@@ -9,7 +9,7 @@
 
 **Interoperability requirement**: as a key condition of the grant, all grantees must support interoperability by incorporating a process to publish their data in a flatfile format such as JSON, JSON-LD, or CSV as well as a process to import data into their tool from a flatfile. This requirement is described more fully in the [draft specification](https://docs.google.com/document/d/1G-2OVyJIvVTcQLPCg_mA3UzohSGZUm9dHPyWKwK4LlA/edit) and rationale accompanying this RFP.
 
-**Awards**: We have successffully allocated approximately $200,000 to fourteen projects that received funding, seven projects that have not received funding but will be part of our cohort out of fifty one applications that we received. We will also be conducting an in person work-shop in San Francisco for all of the cohort members to convene and collaborate.
+**Awards**: We have successfully allocated approximately $200,000 to fourteen projects that received funding, seven projects that have not received funding but will be part of our cohort out of fifty one applications that we received. We will also be conducting an in person work-shop in San Francisco for all of the cohort members to convene and collaborate.
 
 **Our grantees and cohort members**:
 
