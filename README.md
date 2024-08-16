@@ -11,17 +11,14 @@
 
 **Awards**: We have successfully allocated approximately $200,000 to fourteen projects that received funding, seven projects that have not received funding but will be part of our cohort out of fifty one applications that we received. We will also be conducting an in person work-shop in San Francisco for all of the cohort members to convene and collaborate.
 
-**Our grantees and cohort members**:
-
-We are excited to have many innovative projects be a part of this cohort. 
-
+## Funded projects
 - Power Ranker - Power Ranker is a technique for producing probability distributions (“budgets”) over sets of items using pairwise-preference inputs. The goal is to enable large groups to collectively allocate resources. It uses the “power method” for finding eigenvectors, hence the name.
 - Constituency Listening - A data analysis and visualization tool to scaffold transparency, justification, and rigor in voice-to-decision processes for community decision makers.
 - [Iswe Foundation](https://docs.google.com/document/d/1sZ5Q-_J4ZNxWZlL0EFHDrafBzPHR1dUoeNQ5B6keCC8/edit?usp=sharing) - Digital platform for scaling global community deliberation. Supports community scale deliberations globally, aggregates data, and curates insights for local and global impact.
 - [Moral Graph Elicitation](https://docs.google.com/document/d/1GWmEYh6sYwU6N0VjYD5P7VlUNoscFjxZzcRnVfcGdz8/edit?usp=sharing) - Repurpose tool built specifically for OpenAI Democratic Inputs into a standalone, open-source product usable for arbitrary topics (like Pol.is).
 - [Open MicroPublishing](https://docs.google.com/document/d/15wZ9G3WRzCwC6z6cy-a2pK_ZNem-SCrRMEZkizx9mK8/edit?usp=sharing) - Enable researchers to micropublish — from their lab notebooks — evidence-based knowledge graphs that can interoperate with evidence-informed deliberations in online platforms
 - The Deliberative Canvas - Enables importing of qualitative data from deliberative tools onto a digital canvas for dynamic data visualizations - enhancing deliberative processes via human exploration and discovery of (hidden) patterns/relationships.
-- [CSV Interoperable Exports/Imports](https://docs.google.com/document/d/1x2crxfqU7hsnF1G_FQeDCvwlKctsW--wdA28ucd1KIc/edit) - CSV interoperable exports/imports for participatory objects like Assemblies, Meetings, Debates, Initiatives, Proposals and Participatory texts on Decidim platform
+- [CSV Interoperable Exports/Imports](https://docs.google.com/document/d/1x2crxfqU7hsnF1G_FQeDCvwlKctsW--wdA28ucd1KIc/edit) - CSV interoperable exports/imports for participatory objects like Assemblies, Meetings, Debates, Initiatives, Proposals and Participatory texts on the Decidim platform
 - Go Vocal (formerly CitizenLab) - A collective dialogue system to scale online deliberation and build group recommendations based on common ground​.
 - Policy Craft - An online platform that supports collaborative, bottom-up policy development through case-grounded deliberation.
 - Stanford Participatory Budgeting Platform - Platform used by cities for the voting phase of Participatory Budgeting.
@@ -37,6 +34,16 @@ We are excited to have many innovative projects be a part of this cohort.
 - Evocracy decision-making protocol - Efficient and scalable decision-making protocol based on a hierarchical selection and integration process.
 - [Interoperable Co-operative Governance](https://docs.google.com/document/d/17yJ4QCMROqAFfuLMlYV4yozgCHMelV0PK8PWNk-MnkA/edit?usp=sharing) - Repurposing commonly-used collaborative and development tools into an interoperable dashboard that streamlines democratic decision-making processes for small organizations.
 
+## People
+- [Daniel Carr](https://au.linkedin.com/in/daniel-carr-322178160) - Technical lead
+- [Ellie DeSota]() - Non-technical cohort lead
+- [Nitin Mariserla]() - Project manager
+- [Eugene Leventhal](https://metagov.org/people/eugene-leventhal) - Program manager
+- [Josh Tan](https://joshuatan.com/research) - Advisor
+- [Aviv Ovadya](https://metagov.org/people/aviv-ovadya) - Advisor
+- [Amy Zhang](https://metagov.org/people/amy-zhang) - Advisor
+- [Colin Megill](https://colinmegill.com/) - Advisor
+
 ## Key dates
 - July 15, 2024: Grant decisions announced
 - July 31 2024, Kickoff date
@@ -45,15 +52,6 @@ We are excited to have many innovative projects be a part of this cohort.
   - Projects may not be finished by then, but must do public sharing by then.
   - While the call every 2 weeks is optional, grantees are expected to join at least two calls (3 month mark and 6 month mark) to share progress 
 - January 31, 2025 (tentative): Projects report back.
-
-## People
-- [Daniel Carr](https://au.linkedin.com/in/daniel-carr-322178160) - Technical Lead. 
-- [Ellie DeSota]() - Non-technical cohort lead.
-- [Nitin Mariserla]() - Project manager.
-- [Eugene Leventhal](https://metagov.org/people/eugene-leventhal) - Program manager.
-- [Josh Tan](https://metagov.org/people/joshua-tan) - Advisor.
-- [Aviv Ovadya](https://metagov.org/people/aviv-ovadya) - Advisor.
-- [Amy Zhang](https://metagov.org/people/amy-zhang) - Advisor.
 
 ## About Metagov
 Metagov is a laboratory for self-governance on the internet. The mission of Metagov is to cultivate tools, practices, and communities that enable self-governance in the digital age. Our research encompasses both theoretical and applied research, including the development of software and technical standards. On top of our research, we also build research networks and bring together communities through our tools, experiments, and events.
