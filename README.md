@@ -7,11 +7,11 @@
 
 **Scope**: Digital tools that go beyond basic voting and commenting, and provide new capabilities to the governance ecosystem—which may only be one step of a larger deliberative governance process. The processes these tools enable may be used for online community governance, AI governance and alignment, cooperative governance, citizen town halls or assemblies, or other kinds of institutional policy-making or decision-making.
 
-**Interoperability requirement**: as a key condition of the grant, all grantees must support interoperability by incorporating a process to publish their data in a flatfile format such as JSON, JSON-LD, or CSV as well as a process to import data into their tool from a flatfile. This requirement is described more fully in the [draft specification](https://docs.google.com/document/d/1G-2OVyJIvVTcQLPCg_mA3UzohSGZUm9dHPyWKwK4LlA/edit) and rationale accompanying this RFP.
-
-**Awards**: We have successfully allocated approximately $200,000 to fourteen projects that received funding, seven projects that have not received funding but will be part of our cohort out of fifty one applications that we received. We will also be conducting an in person work-shop in San Francisco for all of the cohort members to convene and collaborate.
+**Interoperability requirement**: as a key condition of the grant, all grantees must support interoperability by incorporating a process to publish their data in a flatfile format such as JSON, JSON-LD, or CSV as well as a process to import data into their tool from a flatfile. This requirement is described more fully in the [draft interoperability specification](https://docs.google.com/document/d/1G-2OVyJIvVTcQLPCg_mA3UzohSGZUm9dHPyWKwK4LlA/edit) and rationale accompanying this RFP.
 
 ## Funded projects
+We awarded approximately $200,000 to 14 projects, out of 51 applications received. Additionally, seven project teams whose projects were not selected have been invited to attend the cohort meetings, supported by a small stipend. We will also be conducting an in person workshop in San Francisco for all of the cohort members to convene and collaborate.
+
 - Power Ranker - Power Ranker is a technique for producing probability distributions (“budgets”) over sets of items using pairwise-preference inputs. The goal is to enable large groups to collectively allocate resources. It uses the “power method” for finding eigenvectors, hence the name.
 - Constituency Listening - A data analysis and visualization tool to scaffold transparency, justification, and rigor in voice-to-decision processes for community decision makers.
 - [Iswe Foundation](https://docs.google.com/document/d/1sZ5Q-_J4ZNxWZlL0EFHDrafBzPHR1dUoeNQ5B6keCC8/edit?usp=sharing) - Digital platform for scaling global community deliberation. Supports community scale deliberations globally, aggregates data, and curates insights for local and global impact.
@@ -43,6 +43,12 @@
 - [Aviv Ovadya](https://metagov.org/people/aviv-ovadya) - Advisor
 - [Amy Zhang](https://metagov.org/people/amy-zhang) - Advisor
 - [Colin Megill](https://colinmegill.com/) - Advisor
+
+## Key documents
+- the [full RFP (includes link to application form)](https://docs.google.com/document/d/1G-2OVyJIvVTcQLPCg_mA3UzohSGZUm9dHPyWKwK4LlA/edit)
+- the [full specification](https://docs.google.com/document/d/1px14n1qSKdsaqzUeKLfudEZ7LX0nvED09q2guGbRFY0/edit)
+- the [application](https://docs.google.com/forms/d/e/1FAIpQLSf8gEZaRLgg9nGfYdevdwBVB6yON8eH9ehSXR3UVJ00gibhKg/viewform)
+- the [review rubric](https://docs.google.com/document/d/1HdejQcAH0Ux2a8IuMCT1q949pbJLfJDH1dqzLwqZkAw/edit?usp=sharing)
 
 ## Key dates
 - July 15, 2024: Grant decisions announced
