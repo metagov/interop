@@ -1,17 +1,27 @@
-# RFP: Interoperable Deliberative Tools
-<p align="center">
-  <img src="docs/assets/Websiteimage.jpeg" />
-</p>
+# RFP: Interoperable Deliberative Tools Cohort Offsite
 
-**Purpose**: To support new and existing tools for deliberation and governance, and to promote more interoperability between such tools.
+**Event Overview**: Bring together the cohort (and a couple more teams) for a two-day event where we'll get to hear about all of the projects and create an open space for workshops and unconferences that can help us orient around how these tools or others might best be able to work together. 
 
-**Scope**: Digital tools that go beyond basic voting and commenting, and provide new capabilities to the governance ecosystem—which may only be one step of a larger deliberative governance process. The processes these tools enable may be used for online community governance, AI governance and alignment, cooperative governance, citizen town halls or assemblies, or other kinds of institutional policy-making or decision-making.
+## Dates
+- October 28th: Most people arrive and settles into the venue, there is no formal programming
+- October 29th - 30th: Formal Programming
+- October 31st: Back Home!
 
-**Interoperability requirement**: as a key condition of the grant, all grantees must support interoperability by incorporating a process to publish their data in a flatfile format such as JSON, JSON-LD, or CSV as well as a process to import data into their tool from a flatfile. This requirement is described more fully in the [draft interoperability specification](https://docs.google.com/document/d/1G-2OVyJIvVTcQLPCg_mA3UzohSGZUm9dHPyWKwK4LlA/edit) and rationale accompanying this RFP.
+## Schedule
+| Time | October 28th | October 29th | October 30th | October 31st |
+| -------- | -------| -------- | ------- | ------- |
+| 9AM | Arriving | Breakfast | Breakfast | Leaving |
+| 10AM | Arriving | Cohort Introduction | Introduction + Unconference Org | Leaving |
+| 11AM | Arriving | Impromptu Networking | Unconference | Leaving |
+| 12PM | Arriving | Presentations | Unconference | Leaving |
+| 1PM | Arriving | Lunch | Lunch | Leaving |
+| 2PM | Arriving | Presentations | Unconference | Leaving |
+| 3PM | Arriving | Presentations/Break | Unconference/Break | Leaving |
+| 4PM | Arriving | Presentations | Workshop Synthesis | Leaving |
+| 5PM | Arriving | End Formal Programming | End Programming | Leaving |
+| 5PM | Arriving | Dinner | Dinner | Leaving |
 
-## Funded projects
-We awarded approximately $200,000 to 14 projects, out of 51 applications received. Additionally, seven project teams whose projects were not selected have been invited to attend the cohort meetings, supported by a small stipend. We will also be conducting an in person workshop in San Francisco for all of the cohort members to convene and collaborate.
-
+## Teams
 - Power Ranker - Power Ranker is a technique for producing probability distributions (“budgets”) over sets of items using pairwise-preference inputs. The goal is to enable large groups to collectively allocate resources. It uses the “power method” for finding eigenvectors, hence the name.
 - Constituency Listening - A data analysis and visualization tool to scaffold transparency, justification, and rigor in voice-to-decision processes for community decision makers.
 - [Iswe Foundation](https://docs.google.com/document/d/1sZ5Q-_J4ZNxWZlL0EFHDrafBzPHR1dUoeNQ5B6keCC8/edit?usp=sharing) - Digital platform for scaling global community deliberation. Supports community scale deliberations globally, aggregates data, and curates insights for local and global impact.
@@ -43,21 +53,6 @@ We awarded approximately $200,000 to 14 projects, out of 51 applications receive
 - [Aviv Ovadya](https://metagov.org/people/aviv-ovadya) - Advisor
 - [Amy Zhang](https://metagov.org/people/amy-zhang) - Advisor
 - [Colin Megill](https://colinmegill.com/) - Advisor
-
-## Key documents
-- the [full RFP (includes link to application form)](https://docs.google.com/document/d/1G-2OVyJIvVTcQLPCg_mA3UzohSGZUm9dHPyWKwK4LlA/edit)
-- the [full specification](https://docs.google.com/document/d/1px14n1qSKdsaqzUeKLfudEZ7LX0nvED09q2guGbRFY0/edit)
-- the [application](https://docs.google.com/forms/d/e/1FAIpQLSf8gEZaRLgg9nGfYdevdwBVB6yON8eH9ehSXR3UVJ00gibhKg/viewform)
-- the [review rubric](https://docs.google.com/document/d/1HdejQcAH0Ux2a8IuMCT1q949pbJLfJDH1dqzLwqZkAw/edit?usp=sharing)
-
-## Key dates
-- July 15, 2024: Grant decisions announced
-- July 31 2024, Kickoff date
-  - Optional: call every two weeks for the cohort of projects to have a check-in point
-- October 29th - 30th, 2024: Projects report back (open source repo + updated process cards) at our [in-person cohort meeting](CohortOffsite.md). 
-  - Projects may not be finished by then, but must do public sharing by then.
-  - While the call every 2 weeks is optional, grantees are expected to join at least two calls (3 month mark and 6 month mark) to share progress 
-- January 31, 2025 (tentative): Projects report back.
 
 ## About Metagov
 Metagov is a laboratory for self-governance on the internet. The mission of Metagov is to cultivate tools, practices, and communities that enable self-governance in the digital age. Our research encompasses both theoretical and applied research, including the development of software and technical standards. On top of our research, we also build research networks and bring together communities through our tools, experiments, and events.
