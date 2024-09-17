@@ -12,7 +12,7 @@
 
 ## Schedule
 | Time | October 28th | October 29th | October 30th | October 31st |
-| -------- | -------| -------- | ------- |
+| -------- | -------| -------- | ------- | ------- |
 | 9AM | Arriving | Breakfast | Breakfast | Leaving |
 | 10AM | Arriving | Cohort Introduction | Introduction + Unconference Org | Leaving |
 | 11AM | Arriving | Impromptu Networking | Unconference | Leaving |
