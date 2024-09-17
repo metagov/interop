@@ -1,7 +1,4 @@
 # RFP: Interoperable Deliberative Tools Cohort Offsite
-<p align="center">
-  <img src="docs/assets/Websiteimage.jpeg" />
-</p>
 
 **Event Overview**: Bring together the cohort (and a couple more teams) for a two-day event where we'll get to hear about all of the projects and create an open space for workshops and unconferences that can help us orient around how these tools or others might best be able to work together. 
 
