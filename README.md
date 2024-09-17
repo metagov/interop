@@ -54,7 +54,7 @@ We awarded approximately $200,000 to 14 projects, out of 51 applications receive
 - July 15, 2024: Grant decisions announced
 - July 31 2024, Kickoff date
   - Optional: call every two weeks for the cohort of projects to have a check-in point
-- October 29th - 30th, 2024: Projects report back (open source repo + updated process cards) at our [in-person cohort meeting][CohortOffsite.md]. 
+- October 29th - 30th, 2024: Projects report back (open source repo + updated process cards) at our [in-person cohort meeting](CohortOffsite.md). 
   - Projects may not be finished by then, but must do public sharing by then.
   - While the call every 2 weeks is optional, grantees are expected to join at least two calls (3 month mark and 6 month mark) to share progress 
 - January 31, 2025 (tentative): Projects report back.
