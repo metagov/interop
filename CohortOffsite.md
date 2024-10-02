@@ -8,18 +8,9 @@
 - October 31st: Back Home!
 
 ## Schedule
-| Time | October 28th | October 29th | October 30th | October 31st |
-| -------- | -------| -------- | ------- | ------- |
-| 9AM | Arriving | Breakfast | Breakfast | Leaving |
-| 10AM | Arriving | Cohort Introduction | Introduction + Unconference Org | Leaving |
-| 11AM | Arriving | Impromptu Networking | Unconference | Leaving |
-| 12PM | Arriving | Presentations | Unconference | Leaving |
-| 1PM | Arriving | Lunch | Lunch | Leaving |
-| 2PM | Arriving | Presentations | Unconference | Leaving |
-| 3PM | Arriving | Presentations/Break | Unconference/Break | Leaving |
-| 4PM | Arriving | Presentations | Workshop Synthesis | Leaving |
-| 5PM | Arriving | End Formal Programming | End Programming | Leaving |
-| 5PM | Arriving | Dinner | Dinner | Leaving |
+<p align="center">
+  <img src="docs/assets/scheduleimage.png" />
+</p>
 
 ## Teams
 - Power Ranker - Power Ranker is a technique for producing probability distributions (“budgets”) over sets of items using pairwise-preference inputs. The goal is to enable large groups to collectively allocate resources. It uses the “power method” for finding eigenvectors, hence the name.
