@@ -43,6 +43,7 @@ We awarded approximately $200,000 to 14 projects, out of 51 applications receive
 - [Aviv Ovadya](https://metagov.org/people/aviv-ovadya) - Advisor
 - [Amy Zhang](https://metagov.org/people/amy-zhang) - Advisor
 - [Colin Megill](https://colinmegill.com/) - Advisor
+- [Liz Barry](https://www.linkedin.com/in/elizabethbarry/) - Advisor
 
 ## Key documents
 - the [full RFP (includes link to application form)](https://docs.google.com/document/d/1G-2OVyJIvVTcQLPCg_mA3UzohSGZUm9dHPyWKwK4LlA/edit)
