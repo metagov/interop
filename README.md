@@ -33,6 +33,7 @@ We awarded approximately $200,000 to 14 projects, out of 51 applications receive
 - Ethelo - Ethelo empowers groups to solve complex problems, by collaboratively analyzing all possible scenarios to find outcomes that will maximize support while also minimizing inequality. 
 - Evocracy decision-making protocol - Efficient and scalable decision-making protocol based on a hierarchical selection and integration process.
 - [Interoperable Co-operative Governance](https://docs.google.com/document/d/17yJ4QCMROqAFfuLMlYV4yozgCHMelV0PK8PWNk-MnkA/edit?usp=sharing) - Repurposing commonly-used collaborative and development tools into an interoperable dashboard that streamlines democratic decision-making processes for small organizations.
+- [Decidim](https://decidim.org/) - a citizen participation platform aimed for cities and organizations to help them on their participatory processes. 
 
 ## People
 - [Daniel Carr](https://au.linkedin.com/in/daniel-carr-322178160) - Technical lead
