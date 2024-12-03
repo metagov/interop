@@ -20,7 +20,7 @@ We awarded approximately $200,000 to 14 projects, out of 51 applications receive
 - The Deliberative Canvas - Enables importing of qualitative data from deliberative tools onto a digital canvas for dynamic data visualizations - enhancing deliberative processes via human exploration and discovery of (hidden) patterns/relationships.
 - [Decidim - CSV Interoperable Exports/Imports](https://docs.google.com/document/d/1x2crxfqU7hsnF1G_FQeDCvwlKctsW--wdA28ucd1KIc/edit) - CSV interoperable exports/imports for participatory objects like Assemblies, Meetings, Debates, Initiatives, Proposals and Participatory texts on the Decidim platform
 - Go Vocal (formerly CitizenLab) - A collective dialogue system to scale online deliberation and build group recommendations based on common ground​.
-- Policy Craft - An online platform that supports collaborative, bottom-up policy development through case-grounded deliberation.
+- [Policy Craft](https://arxiv.org/abs/2409.15644) - An online platform that supports collaborative, bottom-up policy development through case-grounded deliberation.
 - Stanford Participatory Budgeting Platform - Platform used by cities for the voting phase of Participatory Budgeting.
 - [Global Brain Algorithm](https://docs.google.com/document/d/1pTRmXC-RmjFxZeT9LQN3Kj6n2pB9ClM_k11eMoAIS18) - An algorithm to debunk misinformation.
 - [MAPLE](https://docs.google.com/document/d/1kpMKUBJEtwZFeMtH5xl75Js0QCp1zJodq_H5FIha99Q/edit) - MAPLE standardizes the public testimony process for the Massachusetts state legislature, provides a public archive, and fosters a deliberative space centered on legislation.
